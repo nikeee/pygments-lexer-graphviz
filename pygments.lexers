@@ -1,0 +1,2 @@
+[pygments.lexers]
+graphvizlexer = graphvizlexer:GraphvizLexer
